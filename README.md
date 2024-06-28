@@ -63,7 +63,7 @@ Este projeto é um dashboard de vendas desenvolvido para exibir informações de
     Crie um arquivo `.env` na raiz do diretório `backend` e adicione as seguintes variáveis:
 
     ```env
-    PORT=5001
+    PORT=5002
     MONGO_URI=mongodb+srv://<usuario>:<senha>@cluster0.mongodb.net/<nome-do-banco>?retryWrites=true&w=majority&appName=Cluster0
     ```
 
